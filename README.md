@@ -51,7 +51,7 @@
 | 🤝 MBA/Biotech Dual Major 🎓      | CSUCI (prospective)      |    Present |
 </div>
 <hr>
-https://github.com/DiplomaZ/DiplomaZ/blob/c4b85fe9f38d896f8a3e271f22705aeba79bcac0/hx.js
+<embed src="https://github.com/DiplomaZ/DiplomaZ/blob/c4b85fe9f38d896f8a3e271f22705aeba79bcac0/hx.js">
 <h2 align="center">🧠 Interests 🧠</h2>
 <br>
 <p align="center">
