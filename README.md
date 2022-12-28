@@ -53,7 +53,6 @@
 <hr>
 <br>
 <h2 align="center">👩‍⚕️ Timeline.js 👩‍💻</h2>
-<div align="center">
 
 ```javascript
 const zBrandt = {
@@ -63,21 +62,20 @@ const zBrandt = {
 
   ➕: "Worked full-time and overtime to pay for life expenses and tuition while maintaining education/work balance.",
 
-  💊: "Initially pursued computer science in college, then switched to biology and earned an A.S. before attending nursing school.",
+  💊: "Initially pursued computer science in college, then switched to biology, earned an A.S., got into nursing school.",
 
-  😥: "Front-line healthcare was intense, so I pivoted from nursing and finally pursued my tech dreams.",
+  😥: "Empathy-stress of front-line healthcare was intense, so I pivoted from nursing and finally pursued my tech dreams.",
 
   🏳️‍⚧️: "came out as transgender in the in-between",
 
   🛏: "became homeless due to harsh reception and mid-career status",
 
   🚗: "hacking from my jeep, I built skills, found a job, found a place, found a business partner, founded a company",
-  
+
   🚀 "Set phasers to 'hire' and bring me on board as a full-stack dev. I'm ready to boldly go where no team has gone before."
 }
 ```
 
-</div>
 <br>
 <h2 align="center">🧠 Interests 🧠</h2>
 <br>
