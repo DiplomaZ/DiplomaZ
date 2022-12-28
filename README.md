@@ -72,7 +72,7 @@ const zBrandt = {
 
   🚗: "hacking from my jeep, I built skills, found a job, found a place, found a business partner, founded a company",
 
-  🚀 "Set phasers to 'hire' and bring me on board as a full-stack dev. I'm ready to boldly go where no team has gone before."
+  🚀: "Set phasers to 'hire' and bring me on board as a full-stack dev. I'm ready to boldly go where no team has gone before."
 }
 ```
 
