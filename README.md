@@ -56,23 +56,33 @@
 
 ```javascript
 const zBrandt = {
-  🧒: "Imprinted by tech and healthcare intersection at a young age.",
+  🧒: `Imprinted by the intersection of
+  tech/healthcare at a young age.`,
 
-  💻: "AI enthusiast in high school, building skills, knowledge, and network.",
+  💻: `AI enthusiast in high school, building skills,
+  knowledge, and network.`,
 
-  ➕: "Worked full-time+ through college",
+  ➕: `Worked full-time+ through college`,
 
-  💊: "Studied computer-science -> biology A.S. -> entered nursing school.",
+  💊: `Studied: 
+  -> 2yrs. Computer-Science
+  -> Biology A.S.
+  -> 2yrs. Nursing school.`,
 
-  😥: "Empathy-stress in front-line medicine was unbearable; pivoted from RN and dusted off old tech career dreams.",
+  😥: `Empathy-stress in front-line health
+  was unbearable; pivoted from RN and
+  dusted off old tech career dreams.`,
 
-  🏳️‍⚧️: "Came out as transgender",
+  🏳️‍⚧️: `Came out as transgender`,
 
-  🛏️: "Became homeless; a harsh reception while between careers",
+  🛏️: `Became homeless; a harsh reception while between careers`,
 
-  🚗: "Hacked in jeep -> upskilled -> found a job -> found a home -> found a business partner -> founded a company",
+  🚗: `Hacked in jeep -> upskilled
+  found a job -> found a home
+  found a business partner -> founded a company`,
 
-  🚀: "Set phasers to 'hire,' and let's boldly go where no team has gone before."
+  🚀: `Set phasers to 'hire,' and
+  let's boldly go where no team has gone before.`
 }
 ```
 
