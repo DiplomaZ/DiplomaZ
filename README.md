@@ -41,7 +41,7 @@
 
 
 <h2 align="center"></h2>
-<p align="center">
+<div align="center">
 
 | Degree        | Institution       | Dates         |
 | ------------- |:-------------:| -----:|
