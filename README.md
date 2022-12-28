@@ -4,8 +4,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zoe-brandt.zoe-brandt">
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/z-brandt/" title="LinkedIn Profile"><img width="100" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"> LinkedIn</a></code>
-  <code><a href="https://www.github.com/DiplomaZ" title="GitHub Profile"><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"> DiplomaZ</a></code>
+    <a href="https://www.linkedin.com/in/z-brandt/" title="LinkedIn Profile"><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"> LinkedIn</a></code>
+  <code><a href="https://www.zbrandt.dev" title="GitHub Profile"><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Radar_icon_blue.svg"> Landing Page</a></code>
 </h5>
 <br>
 <p align="center">
@@ -27,19 +27,41 @@
   📫 You can contact me via <a href="zbrandt.dev">zbrandt.dev</a>  through any of my socials.
 </p>
 <hr>
+ 
 <h2 align="center">💻 Skills and Tools 💻</h2>
 <br>
-<p align="center">
-  <code><img title="Python" height="25" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">Python </code>
-  <code><img title="Nodejs" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png">Node.js </code>
-  <code><img title="ReactRedux" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png">React/Redux </code>
-  <code><img title="Svelte" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png">Svelte </code>
-  <code><img title="Less/Sass/Tailwind" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">Less/Sass/Tailwind </code> <code><img title="PostgreSQL" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png">PostgreSQL </code><code><img title="GraphQL" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png">GraphQL </code>
-<code><img title="Pandas" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png">Pandas</code>
-</p>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; align-content: center; line-height: 2rem">
+   <div style="display: flex; margin: 2%; flex-wrap: nowrap"><img title="Python" height="25" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">Python</div>
 
+  <div style="display: flex; margin: 2%; flex-wrap: nowrap"><img title="Nodejs" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png">Node.js</div>
+
+  <div style="display: flex; margin: 2%; flex-wrap: nowrap"><img title="ReactRedux" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png">React/Redux</div>
+
+<div style="display: flex; margin: 2%; flex-wrap: nowrap">
+  <img title="Svelte" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png">Svelte
+</div>
+
+<div style="display: flex; margin: 2%; flex-wrap: nowrap">
+  <img title="Less/Sass/Tailwind" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">Less/Sass/Tailwind  
+  </div>
+  
+  <div style="display: flex; margin: 2%; flex-wrap: nowrap">
+  <img title="PostgreSQL" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png">PostgreSQL
+  </div>
+
+  <div style="display: flex; margin: 2%; flex-wrap: nowrap">
+  <img title="GraphQL" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png">GraphQL
+</div>
+
+<div style="display: flex; margin: 2%; flex-wrap: nowrap">
+<img title="Pandas" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png">Pandas
+</div>
+</div>
+<br>
 <hr>
-<h2 align="center">📚 Education 📚</h2>
+
+
+<h2 align="center"></h2>
 <p align="center">
 
 | Degree        | Institution       | Dates         |
@@ -50,19 +72,39 @@
 | 🤝 MBA/Biotech Dual Major 🎓      | CSUCI (prospective)      |    Present |
 </p>
 <hr>
+
 <h2 align="center">🧠 Interests 🧠</h2>
 <br>
-<p align="center">
-<code><img title="Data Analysis" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/201806_DataAnalysis_on_display.svg/640px-201806_DataAnalysis_on_display.svg.png">Data Analysis </code>
-<code><img title="Robotics" height="25" src="https://cdn-icons-png.flaticon.com/128/1404/1404642.png">Robotics </code>
-<code><img title="BCI Tech" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1280px-Lobes_of_the_brain_NL.svg.png">BCI Tech </code>
-<code><img title="Biotech" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Icons8_flat_biotech.svg/1200px-Icons8_flat_biotech.svg.png">Biotech </code>
-<code><img title="Healthcare" height="25" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Health_pictogram.svg">Healthcare </code>
-<code><img title="Imaging/Microscopy" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Vision_Flat_Icon.svg/512px-Vision_Flat_Icon.svg.png?20180301073008">Imaging/Microscopy </code>
-<code><img title="Drones/ROVs" height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/11/Droneicon.png">Drones/ROVs </code>
-<code><img title="Aerospace" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenMoji-color_1F680.svg/480px-OpenMoji-color_1F680.svg.png">Aerospace </code>
-<code><img title="Nanorobotics" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/PhageExterior.svg/1679px-PhageExterior.svg.png">Nanorobotics </code>
-    <p align="center"> 
-        <code><img title="Securities" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Candlestick.svg/445px-Candlestick.svg.png">Securities</code>
-    </p>
-</p>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; align-content: center; line-height: 2rem">
+   <div style="display: flex; margin: 2%; flex-wrap: nowrap"><img title="Data Analysis" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/201806_DataAnalysis_on_display.svg/640px-201806_DataAnalysis_on_display.svg.png">Data-Analysis</div>
+
+  <div style="display: flex; margin: 2%; flex-wrap: nowrap"><img title="Robotics" height="25" src="https://cdn-icons-png.flaticon.com/128/1404/1404642.png">Robotics</div>
+
+  <div style="display: flex; margin: 2%; flex-wrap: nowrap"><img title="BCI Tech" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1280px-Lobes_of_the_brain_NL.svg.png">BCI-Tech</div>
+
+<div style="display: flex; margin: 2%; flex-wrap: nowrap">
+  <img title="Biotech" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Icons8_flat_biotech.svg/1200px-Icons8_flat_biotech.svg.png">Biotech
+</div>
+
+<div style="display: flex; margin: 2%; flex-wrap: nowrap">
+  <img title="Healthcare" height="25" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Health_pictogram.svg">Healthcare
+  </div>
+  
+  <div style="display: flex; margin: 2%; flex-wrap: nowrap">
+  <img title="Imaging/Microscopy" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Vision_Flat_Icon.svg/512px-Vision_Flat_Icon.svg.png?20180301073008">Imaging/Microscopy
+  </div>
+
+  <div style="display: flex; margin: 2%; flex-wrap: nowrap">
+  <img title="Drones/ROVs" height="25" src="https://upload.wikimedia.org/wikipedia/commons/1/11/Droneicon.png">Drones/ROVs
+</div>
+
+<div style="display: flex; margin: 2%; flex-wrap: nowrap">
+<img title="Aerospace" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenMoji-color_1F680.svg/480px-OpenMoji-color_1F680.svg.png">Aerospace
+</div>
+<div style="display: flex; margin: 2%; flex-wrap: nowrap">
+<img title="Nanorobotics" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/PhageExterior.svg/1679px-PhageExterior.svg.png">Nanorobotics
+</div>
+<div style="display: flex; margin: 2%; flex-wrap: nowrap">
+<img title="Securities" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Candlestick.svg/445px-Candlestick.svg.png">Securities
+</div>
+</div>
