@@ -68,7 +68,7 @@ const zBrandt = {
 
   🏳️‍⚧️: "Came out as transgender in the in-between",
 
-  🛏: "Became homeless due to harsh reception and mid-career status",
+  🛏️: "Became homeless due to harsh reception and mid-career status",
 
   🚗: "Hacking from my jeep, I built skills, found a job, found a place, found a business partner, founded a company",
 
