@@ -64,15 +64,15 @@ const zBrandt = {
 
   💊: "Initially pursued computer science in college, then switched to biology, earned an A.S., got into nursing school.",
 
-  😥: "Empathy-stress of front-line healthcare was intense, so I pivoted from nursing and finally pursued my tech dreams.",
+  😥: "Empathy-stress of front-line healthcare was intense; I pivoted from nursing and finally pursued my tech dreams.",
 
-  🏳️‍⚧️: "came out as transgender in the in-between",
+  🏳️‍⚧️: "Came out as transgender in the in-between",
 
-  🛏: "became homeless due to harsh reception and mid-career status",
+  🛏: "Became homeless due to harsh reception and mid-career status",
 
-  🚗: "hacking from my jeep, I built skills, found a job, found a place, found a business partner, founded a company",
+  🚗: "Hacking from my jeep, I built skills, found a job, found a place, found a business partner, founded a company",
 
-  🚀: "Set phasers to 'hire' and bring me on board as a full-stack dev. I'm ready to boldly go where no team has gone before."
+  🚀: "Set phasers to 'hire' and bring me aboard as a full-stack dev. I'm ready to boldly go where no team has gone before."
 }
 ```
 
