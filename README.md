@@ -58,7 +58,7 @@
 const zBrandt = {
   🧒: "Imprinted by tech and healthcare intersection at a young age.",
 
-  💻: "AI enthusiast in high school, building skills and knowledge.",
+  💻: "AI enthusiast in high school, building skills, knowledge, and network.",
 
   ➕: "Worked full-time+ through college to pay for life expenses and tuition while maintaining education/work balance.",
 
