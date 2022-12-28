@@ -60,11 +60,11 @@ const zBrandt = {
 
   💻: "AI enthusiast in high school, building skills and knowledge.",
 
-  ➕: "Worked full-time and overtime to pay for life expenses and tuition while maintaining education/work balance.",
+  ➕: "Worked full-time+ through college to pay for life expenses and tuition while maintaining education/work balance.",
 
-  💊: "Initially pursued computer science in college, then switched to biology, earned an A.S., got into nursing school.",
+  💊: "Initially pursued computer science in college, switched to biology, earned an A.S., got into nursing school.",
 
-  😥: "Empathy-stress of front-line healthcare was intense; I pivoted from nursing and finally pursued my tech dreams.",
+  😥: "Empathy-stress of front-line healthcare was intense; I pivoted from RN and finally pursued my tech dreams.",
 
   🏳️‍⚧️: "Came out as transgender in the in-between",
 
@@ -72,7 +72,7 @@ const zBrandt = {
 
   🚗: "Hacking from my jeep, I built skills, found a job, found a place, found a business partner, founded a company",
 
-  🚀: "Set phasers to 'hire' and bring me aboard as a full-stack dev. I'm ready to boldly go where no team has gone before."
+  🚀: "Set phasers to 'hire' and bring me aboard as a full-stack dev. Let's boldly go where no team has gone before."
 }
 ```
 
