@@ -49,7 +49,7 @@
 | 🏥 Nursing A.S. *      | SCCCD      |    2017-2019* |
 | 💻 Full-Stack Developer      | Bloomtech      |    2019-2021 |
 | 🤝 MBA/Biotech Dual Major 🎓      | CSUCI (prospective)      |    Present |
-</p>
+</div>
 <hr>
 
 <h2 align="center">🧠 Interests 🧠</h2>
