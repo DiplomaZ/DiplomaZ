@@ -40,7 +40,7 @@
 <hr>
 
 
-<h2 align="center"></h2>
+<h2 align="center">📚 Education 📚</h2>
 <div align="center">
 
 | Degree        | Institution       | Dates         |
@@ -51,7 +51,7 @@
 | 🤝 MBA/Biotech Dual Major 🎓      | CSUCI (prospective)      |    Present |
 </div>
 <hr>
-<embed src="https://github.com/DiplomaZ/DiplomaZ/blob/c4b85fe9f38d896f8a3e271f22705aeba79bcac0/hx.js">
+<iframe src="https://github.com/DiplomaZ/DiplomaZ/blob/c4b85fe9f38d896f8a3e271f22705aeba79bcac0/hx.js"></iframe>
 <h2 align="center">🧠 Interests 🧠</h2>
 <br>
 <p align="center">
