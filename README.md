@@ -75,7 +75,8 @@ const zBrandt = {
 
   🏳️‍⚧️: `Came out as transgender`,
 
-  🛏️: `Became homeless; a harsh reception while between careers`,
+  🛏️: `Became homeless; a harsh reception while
+  between careers`,
 
   🚗: `Hacked in jeep -> upskilled
   found a job -> found a home
