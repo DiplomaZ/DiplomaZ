@@ -78,7 +78,7 @@ const zBrandt = {
   🛏️: `Became homeless; a harsh reception while
   between careers`,
 
-  🚗: `Hacked in jeep -> upskilled
+  🚗: `Hacking in my jeep -> upskilled
   found a job -> found a home
   found a business partner -> founded a company`,
 
