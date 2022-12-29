@@ -25,7 +25,7 @@
   📫 You can contact me via <a href="zbrandt.dev">zbrandt.dev</a>  through any of my socials.
 </p>
 <hr>
- 
+<br>
 <h2 align="center">💻 Skills and Tools 💻</h2>
 <br>
 <div align="center">
@@ -38,8 +38,7 @@
 </div>
 <br>
 <hr>
-
-
+<br>
 <h2 align="center">📚 Education 📚</h2>
 <div align="center">
 
@@ -86,7 +85,7 @@ const zBrandt = {
   let's boldly go where no team has gone before.`
 }
 ```
-
+<hr>
 <br>
 <h2 align="center">🧠 Interests 🧠</h2>
 <br>
