@@ -44,7 +44,7 @@
 
 | Degree        | Institution       | Dates         |
 | ------------- |:-------------:| -----:|
-| 💻 Computer-Science A.S. *    | SCCCD      |   2012-2014 |
+| 💻 Computer-Science A.S. *    | SCCCD      |   2012-2014* |
 | 🎓 Biology A.S.      | SCCCD      |   2014-2017 |
 | 🏥 Nursing A.S. *      | SCCCD      |    2017-2019* |
 | 💻 Full-Stack Developer      | Bloomtech      |    2019-2021 |
